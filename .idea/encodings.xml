@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-erueka-ad" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-getway-ad" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-service-ad" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-service-ad/youzan-ad-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-service-ad/youzan-common-ad" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-service-ad/youzan-getway-ad" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-service-ad/youzan-sponsor-ad" charset="UTF-8" />
+  </component>
+</project>
