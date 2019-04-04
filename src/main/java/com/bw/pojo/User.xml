@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bw.dao.UserDao">
+	<sql id="whereSql">
+		<where>
+			<if test="name!=null and name!=''">
+				and name like concat('%',#{name},'%')
+			</if>
+		</where>
+	</sql>
+		<select id="count" parameterType="com.bw.pojo.User" resultType="Long">
+ 			select count(*) from user u LEFT JOIN school s ON u.sid=s.sid
+ 			<include refid="whereSql"/> 
+ 		</select>
+	<select id="list" parameterType="com.bw.pojo.User" resultType="com.bw.pojo.User">
+ 		SELECT * FROM USER u LEFT JOIN school s ON u.sid=s.sid
+ 		<include refid="whereSql"/> 
+ 		limit #{start},#{pageSize}
+ 	</select>
+</mapper>
