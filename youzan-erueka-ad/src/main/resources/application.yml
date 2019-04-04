@@ -1,0 +1,9 @@
+
+
+
+spring:
+  application:
+    name: ad-erueka
+  profiles:
+    active: dev
+

@@ -1,0 +1,16 @@
+server:
+  port: 8082
+
+
+spring:
+  application:
+    name: ad-erueka
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/,http://${eureka.instance.hostname}:8081/eureka/
