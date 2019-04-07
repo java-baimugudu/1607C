@@ -16,8 +16,8 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
  * @author
  */
 
-@RestControllerAdvice
-public class CommonResponseDataAdvice  implements ResponseBodyAdvice<Object> {
+@RestControllerAdvice  //对象因进行拦截,统一的处理响应过程
+public class CommonResponseDataAdvice  implements ResponseBodyAdvice<Object> {//控制坐哪一些的响应,以及对响应坐什么样的的处理
 
     @Override
     @SuppressWarnings("all")

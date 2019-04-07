@@ -6,17 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="youzan-ad-common" />
         <module name="youzan-ad-search" />
-        <module name="youzan-common-ad" />
+        <module name="youzan-ad-sponsor" />
         <module name="youzan-erueka-ad" />
         <module name="youzan-getway-ad" />
-        <module name="youzan-sponsor-ad" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="youzan-common-ad" target="1.8" />
+      <module name="youzan-service-ad" target="1.8" />
+      <module name="youzan-sponsor-ad" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="youzan-ad-common" options="-parameters" />
       <module name="youzan-ad-search" options="-parameters" />
+      <module name="youzan-ad-sponsor" options="-parameters" />
       <module name="youzan-common-ad" options="-parameters" />
       <module name="youzan-erueka-ad" options="-parameters" />
       <module name="youzan-getway-ad" options="-parameters" />

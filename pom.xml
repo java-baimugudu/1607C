@@ -8,7 +8,7 @@
     <artifactId>ad</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>youzan-service-ad</module>
+        <module>youzan-ad-service</module>
         <module>youzan-erueka-ad</module>
         <module>youzan-getway-ad</module>
     </modules>

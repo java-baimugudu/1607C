@@ -64,9 +64,10 @@ public class DumpDataService {
 
 
     @Test
-    public void dumpAdTableData(){
-        dumpAdPlanTable(String.format("%s%s", DConstant.DATA_ROOT_DIR,
+    public void dumpAdTableData() throws IOException {
+       dumpAdPlanTable(String.format("%s%s", DConstant.DATA_ROOT_DIR,
                 DConstant.AD_PLAN));
+
 
         dumpUnitTable(String.format("%s%s",DConstant.DATA_ROOT_DIR,
                 DConstant.AD_UNIT));
@@ -92,41 +93,69 @@ public class DumpDataService {
 
 
 
-    private void dumpAdPlanTable(String fileName){
-        List<AdPlan> adplans = adPlanRepository.findAllByPlanStatus(
+    private void dumpAdPlanTable(String fileName) throws IOException {
+        List<AdPlan> adPlan = adPlanRepository.findAllByPlanStatus(
                 CommonStatus.VALID.getStatus()
         );
-
-        List<AdPlanTable> adPlanTables = new ArrayList<>();
-
-        adplans.forEach(
+        ArrayList<AdPlanTable> adPlanTables = new ArrayList<>();
+        adPlan.forEach(
                 i->adPlanTables.add(
-                       new AdPlanTable(
-                               i.getId(),
-                               i.getUserId(),
-                               i.getPlanStatus(),
-                               i.getStartTime(),
-                               i.getEndTime()
-                       )
+                        new AdPlanTable(
+                                i.getId(),
+                                i.getUserId(),
+                                i.getPlanStatus(),
+                                i.getStartTime(),
+                                i.getEndTime()
+                        )
                 )
+
         );
+        Path path = Paths.get(fileName);
 
-
-        final Path path = Paths.get(fileName);
-
-        try(BufferedWriter bufferedWriter = Files.newBufferedWriter(path)) {
-            // BufferedWriter bufferedWriter = Files.newBufferedWriter(path);
-             for(AdPlanTable adPlanTable:adPlanTables){
-                 bufferedWriter.write(JSON.toJSONString(adPlanTable));
-                 bufferedWriter.newLine();
-             }
-
+        try ( BufferedWriter bufferedWriter = Files.newBufferedWriter(path)){
+            for (AdPlanTable adPlanTable : adPlanTables) {
+                bufferedWriter.write(JSON.toJSONString(adPlanTable));
+                bufferedWriter.newLine();
+            }
             bufferedWriter.close();
-
-        } catch (IOException e) {
-            e.printStackTrace();
-            log.error(e.getMessage());
+        }catch (IOException ex){
+            ex.printStackTrace();
+            log.error(ex.getMessage());
         }
+//        List<AdPlan> adplans = adPlanRepository.findAllByPlanStatus(
+//                CommonStatus.VALID.getStatus()
+//        );
+//
+//        List<AdPlanTable> adPlanTables = new ArrayList<>();
+//
+//        adplans.forEach(
+//                i->adPlanTables.add(
+//                       new AdPlanTable(
+//                               i.getId(),
+//                               i.getUserId(),
+//                               i.getPlanStatus(),
+//                               i.getStartTime(),
+//                               i.getEndTime()
+//                       )
+//                )
+//        );
+//
+//
+//        final Path path = Paths.get(fileName);
+//
+//        try(BufferedWriter bufferedWriter = Files.newBufferedWriter(path)) {
+//            // BufferedWriter bufferedWriter = Files.newBufferedWriter(path);
+//             for(AdPlanTable adPlanTable:adPlanTables){
+//                 bufferedWriter.write(JSON.toJSONString(adPlanTable));
+//                 bufferedWriter.newLine();
+//             }
+//
+//            bufferedWriter.close();
+//
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//            log.error(e.getMessage());
+//        }
 
 
     }
@@ -302,9 +331,37 @@ public class DumpDataService {
 
 
 
-    private void dumpCreativeKeyWord(String fileName){
+    private void dumpCreativeKeyWord(String fileName) throws IOException {
+  /*      List<AdUnitKeyword> adUnitKeywords = adUnitKeywordRepository.findAll();
+        ArrayList<AdUnitKeyword> unitKeywordTables = new ArrayList<>();
+        adUnitKeywords.forEach(
+                i->unitKeywordTables.add(
+                        new AdUnitKeywordTable(
+                                i.getUnitId(),
+                                i.getKeyword()
+                        )
 
-        List<AdUnitKeyword> adUnitKeywords = adUnitKeywordRepository.findAll();
+                )
+        );*/
+        List<AdUnitKeyword> unitKeywords = adUnitKeywordRepository.findAll();
+        ArrayList<AdUnitKeyword> unitKeywordTables = new ArrayList<>();
+        unitKeywords.forEach(
+              i->  new AdUnitKeywordTable(
+                      i.getUnitId(),
+                      i.getKeyword()
+              )
+
+        );
+        Path path = Paths.get(fileName);
+
+        try (  BufferedWriter bufferedWriter = Files.newBufferedWriter(path)){
+            for (AdUnitKeyword unitKeywordTable : unitKeywordTables) {
+                bufferedWriter.write(JSON.toJSONString(unitKeywordTable));
+                bufferedWriter.newLine();
+            }
+            bufferedWriter.close();
+        }
+       /* List<AdUnitKeyword> adUnitKeywords = adUnitKeywordRepository.findAll();
         List<AdUnitKeywordTable> adUnitItTables = new ArrayList<>();
 
         adUnitKeywords.forEach(
@@ -328,7 +385,7 @@ public class DumpDataService {
 
         }catch(IOException e){
             e.printStackTrace();
-        }
+        }*/
 
 
 

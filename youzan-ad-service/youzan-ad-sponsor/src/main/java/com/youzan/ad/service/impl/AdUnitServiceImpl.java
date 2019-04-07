@@ -92,12 +92,7 @@ public class AdUnitServiceImpl implements IAdUnitService {
 
     @Override
     public AdUnitKeywordResponse createUnitKeyWord(AdUnitKeyWordRequest unitKeyWordRequest) {
-        //  List<Long> unitIds = Collections.emptyList();
-       /* final List<AdUnitKeyWordRequest.UnitKeyWords> unitKeyWord = unitKeyWordRequest.getUnitKeyWord();
-        for(int i=0;i<unitKeyWord.size();i++){
-           Long unitId =  unitKeyWord.get(i).getUnitId();
-            unitIds.add(unitId);
-        }*/
+
         //JDK1.8
 
         List<Long> unitIds = unitKeyWordRequest.getUnitKeyWord().stream().
@@ -122,10 +117,15 @@ public class AdUnitServiceImpl implements IAdUnitService {
                     AdUnitKeyword::getId
             ).collect(Collectors.toList());
                     //collect(Collectors.toList());
-
         }
         return new AdUnitKeywordResponse(ids);
     }
+    //  List<Long> unitIds = Collections.emptyList();
+       /* final List<AdUnitKeyWordRequest.UnitKeyWords> unitKeyWord = unitKeyWordRequest.getUnitKeyWord();
+        for(int i=0;i<unitKeyWord.size();i++){
+           Long unitId =  unitKeyWord.get(i).getUnitId();
+            unitIds.add(unitId);
+        }*/
 
     @Override
     public AdUnitItResponse createUnitIt(AdUnitItRequest unitItRequest) {
