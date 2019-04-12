@@ -122,40 +122,7 @@ public class DumpDataService {
             ex.printStackTrace();
             log.error(ex.getMessage());
         }
-//        List<AdPlan> adplans = adPlanRepository.findAllByPlanStatus(
-//                CommonStatus.VALID.getStatus()
-//        );
-//
-//        List<AdPlanTable> adPlanTables = new ArrayList<>();
-//
-//        adplans.forEach(
-//                i->adPlanTables.add(
-//                       new AdPlanTable(
-//                               i.getId(),
-//                               i.getUserId(),
-//                               i.getPlanStatus(),
-//                               i.getStartTime(),
-//                               i.getEndTime()
-//                       )
-//                )
-//        );
-//
-//
-//        final Path path = Paths.get(fileName);
-//
-//        try(BufferedWriter bufferedWriter = Files.newBufferedWriter(path)) {
-//            // BufferedWriter bufferedWriter = Files.newBufferedWriter(path);
-//             for(AdPlanTable adPlanTable:adPlanTables){
-//                 bufferedWriter.write(JSON.toJSONString(adPlanTable));
-//                 bufferedWriter.newLine();
-//             }
-//
-//            bufferedWriter.close();
-//
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//            log.error(e.getMessage());
-//        }
+
 
 
     }

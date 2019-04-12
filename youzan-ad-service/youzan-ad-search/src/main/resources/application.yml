@@ -16,7 +16,7 @@ spring:
     open-in-view: true
 
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/youzan-ad?useUnicode=true&characterEncoding=utf-8
+    url: jdbc:mysql://127.0.0.1:3306/imooc_ad_data?useUnicode=true&characterEncoding=utf-8
     username: root
     password: root
 

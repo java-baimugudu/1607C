@@ -21,9 +21,9 @@ public class AdUnitKeyWordRequest {
     @Data
     @AllArgsConstructor
     @NoArgsConstructor
-    public static class UnitKeyWords{
-        private Long unitId;
-        private String keyword;
+        public static class UnitKeyWords{
+            private Long unitId;
+            private String keyword;
     }
 
 

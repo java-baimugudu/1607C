@@ -16,11 +16,11 @@ public class SponeorClientHystrix implements  SponeorClient{
     @Override
 
    // @HystrixCommand(fallbackMethod = "getPlanfallbackMethod")
-    public CommonResponse<List<AdPlanResponse>> getPlan(AdPlanGetRequest request) {
+/*    public CommonResponse<List<AdPlanResponse>> getPlan(AdPlanGetRequest request) {
+        return new CommonResponse(-1,"网络异常",null);
+    }*/
+
+    public CommonResponse<List<AdPlanResponse>> getPlan(AdPlanGetRequest request){
         return new CommonResponse(-1,"网络异常",null);
     }
-
-//    public CommonResponse<List<AdPlanResponse>> getPlanfallbackMethod(AdPlanGetRequest request) {
-//        return new CommonResponse(-1,"网络异常",null);
-//    }
 }

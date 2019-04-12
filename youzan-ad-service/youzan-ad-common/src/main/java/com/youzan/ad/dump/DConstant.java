@@ -5,7 +5,7 @@ package com.youzan.ad.dump;
  */
 public class DConstant {
 
-    public static final String DATA_ROOT_DIR = "D:/youzan-ad-data/";
+    public static final String DATA_ROOT_DIR = "E:/youzan-ad-data/";
 
 
     //各个表数据的存储文件名

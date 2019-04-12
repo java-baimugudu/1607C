@@ -11,6 +11,7 @@ import java.io.Serializable;
  * Created by baimugudu on 2019/3/26
  * @author baimugudu
  * 统一返回（响应）对象
+ * 为什么要序列话
  */
 
 @Getter

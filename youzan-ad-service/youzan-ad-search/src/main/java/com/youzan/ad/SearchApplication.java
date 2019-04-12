@@ -27,9 +27,9 @@ public class SearchApplication {
         SpringApplication.run(SearchApplication.class,args);
     }
 
-    @Bean
-    @LoadBalanced
-    RestTemplate restTemplate(){
-        return new RestTemplate();
+        @Bean
+        @LoadBalanced
+        RestTemplate restTemplate(){
+            return new RestTemplate();
     }
 }

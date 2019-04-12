@@ -32,38 +32,7 @@ import java.util.HashSet;
 public class AdLevelDataHandler {
 
 
-
-/*    public static void handleLevel2(AdPlanTable adPlanTable,OpType type){
-     *//*   AdPlanObject adPlanObject = new AdPlanObject(
-                adPlanTable.getPlanId(),
-                adPlanTable.getUserId(),
-                adPlanTable.getPlanStatus(),
-                adPlanTable.getStartDate(),
-                adPlanTable.getEndDate()
-        );
-        handleBinLongEvent(
-                DataTable.of(AdPlanIndex.class),
-                adPlanObject.getPlanId(),
-                adPlanObject,
-                type
-        );*//*
-
-    }*/
     public static void handleLevel2(AdPlanTable adPlanTable,OpType type){
-/*        AdPlanObject adPlanObject = new AdPlanObject(
-                adPlanTable.getPlanId(),
-                adPlanTable.getUserId(),
-                adPlanTable.getPlanStatus(),
-                adPlanTable.getStartDate(),
-                adPlanTable.getEndDate()
-        );
-        handleBinLongEvent(
-                DataTable.of(AdPlanIndex.class),
-                adPlanObject.getPlanId(),
-                adPlanObject,
-                type
-
-        );*/
         AdPlanObject adPlanObject = new AdPlanObject(
                 adPlanTable.getPlanId(),
                 adPlanTable.getUserId(),
@@ -76,25 +45,12 @@ public class AdLevelDataHandler {
                 adPlanObject.getPlanId(),
                 adPlanObject,
                 type
+
         );
+
     }
     public static void handlevel2(AdCreativeTbale adCreativeTbale,OpType type){
-      /* CreativeObject creativeObject = new CreativeObject(
-               adCreativeTbale.getAdId(),
-               adCreativeTbale.getName(),
-               adCreativeTbale.getType(),
-               adCreativeTbale.getMaterialType(),
-               adCreativeTbale.getHeight(),
-               adCreativeTbale.getWidth(),
-               adCreativeTbale.getAuditStatus()
-       );
-       handleBinLongEvent(
-               DataTable.of(CreativeIndex.class),
-               creativeObject.getAdId(),
-               creativeObject,
-               type
-       );
-*/
+
         CreativeObject creativeObject = new CreativeObject(
                 adCreativeTbale.getAdId(),
                 adCreativeTbale.getName(),
@@ -111,29 +67,8 @@ public class AdLevelDataHandler {
                 type);
     }
 
-
     public static  void handlelevel3(AdUnitTable adUnitTable,OpType type){
-    /*    AdPlanObject adPlanObject = DataTable.of(AdPlanIndex.class).
-                get(adUnitTable.getPlanId());
 
-        if(null==adPlanObject){
-            log.error("this planId id invalidate");
-            return;
-        }
-
-        AdUnitObject adUnitObject =  new AdUnitObject(
-                adUnitTable.getUnitId(),
-                adUnitTable.getUnitStatus(),
-                adUnitTable.getPositionType(),
-                adUnitTable.getPlanId()
-        );
-
-        handleBinLongEvent(
-                DataTable.of(AdUnitIndex.class),
-                adUnitObject.getUnitId(),
-                adUnitObject,
-                type
-        );*/
         AdPlanObject adPlanObject = DataTable.of(AdPlanIndex.class).get(adUnitTable.getUnitId());
         if (adPlanObject==null){
             log.error("no adplan ");
@@ -153,7 +88,6 @@ public class AdLevelDataHandler {
         );
     }
 
-
     public static  void  handlevel3(AdCreativeUnitTbale adCreativeUnitTbale,
                                     OpType type){
 
@@ -162,8 +96,11 @@ public class AdLevelDataHandler {
             return;
         }
 
-        AdUnitObject adUnitObject = DataTable.of(AdUnitIndex.class)
-                .get(adCreativeUnitTbale.getUnitId());
+    /*    AdUnitObject adUnitObject = DataTable.of(AdUnitIndex.class)
+                .get(adCreativeUnitTbale.getUnitId());*/
+
+        AdUnitObject adUnitObject = DataTable.of(AdUnitIndex.class).get(adCreativeUnitTbale.getUnitId());
+
 
         if(null==adUnitObject){
             log.error("this unitId is invalidate");
@@ -178,7 +115,6 @@ public class AdLevelDataHandler {
             log.error("this.adId id invalidate");
             return;
         }
-
 
         CreativeUnitObject unitObject = new CreativeUnitObject(
                 adCreativeUnitTbale.getUnitId(),
@@ -198,17 +134,16 @@ public class AdLevelDataHandler {
 
     }
 
-
     public  static  void handleLevel4(AdUnitDistrictTable adUnitDistrictTable,
                                       OpType type){
 
-      if (OpType.UPDATE==null){
-          log.error("no support update");
-          return;
-      }
+        if (OpType.UPDATE==null){
+            log.error("no supoort update");
+            return;
+        }
         AdUnitObject adUnitObject = DataTable.of(AdUnitIndex.class).get(adUnitDistrictTable.getUnitId());
         if (adUnitObject==null){
-            log.error("no unitId");
+            log.error("no unit");
             return;
         }
         UnitDistrictObject unitDistrictObject = new UnitDistrictObject(
@@ -227,50 +162,7 @@ public class AdLevelDataHandler {
                         )
                 ),type
         );
-      /*  if(type==OpType.UPDATE){
-            log.error(" no support update");
-            return ;
-        }
-
-
-        AdUnitObject adUnitObject = DataTable.of(AdUnitIndex.class).
-                get(adUnitDistrictTable.getUnitId());
-
-        if(null==adUnitObject){
-            log.error("this  unitid is invalidate ");
-            return;
-        }
-
-        UnitDistrictObject unitDistrictObject = new UnitDistrictObject(
-                 adUnitDistrictTable.getUnitId(),
-                 adUnitDistrictTable.getProvince(),
-                 adUnitDistrictTable.getCity()
-         );
-
-
-
-
-        handleBinLongEvent(
-                DataTable.of(UnitDistrictIndex.class),
-                CommonUtils.stringConcat(
-                        unitDistrictObject.getProvince(),
-                        unitDistrictObject.getCity()
-                ),
-                new HashSet<>(
-                        //返回只包含特定对象的集合,size为1
-                        Collections.singleton(
-                        adUnitDistrictTable.getUnitId()
-                )
-                ),
-                type
-
-        );*/
-
-
-
     }
-
-
 
     public static  void handlLevel4(AdUnitItTable adUnitItTable,
                                     OpType type){
@@ -297,37 +189,7 @@ public class AdLevelDataHandler {
                   ),
                   type
           );
-/*
-        if(type==OpType.UPDATE){
-            log.error(" no support update");
-            return ;
-        }
 
-         AdUnitObject adUnitObject =   DataTable.of(AdUnitIndex.class).get(
-                adUnitItTable.getUnitId()
-        );
-
-        if(null==adUnitObject){
-            log.error("this unitid is invalidate");
-            return;
-        }
-
-        UnitItObject unitItObject = new UnitItObject(
-                adUnitItTable.getUnitId(),
-                adUnitItTable.getItTag()
-        );
-
-        handleBinLongEvent(
-                DataTable.of(UnitItIndex.class),
-                unitItObject.getItTag(),
-                new HashSet<>(
-                        Collections.singleton(
-                                unitItObject.getUnitId()
-                        )
-                ),
-                type
-
-        );*/
 
     }
 
@@ -338,7 +200,7 @@ public class AdLevelDataHandler {
             log.error(" no support update");
             return ;
         }
-
+    //adunitIndex 的value就是adUnitObject
         AdUnitObject adUnitObject = DataTable.of(AdUnitIndex.class).
                 get(adUnitKeywordTable.getUnitId());
 

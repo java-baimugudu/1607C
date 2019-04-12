@@ -15,11 +15,11 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 @RestControllerAdvice
 public class ExcetionAdvice {
 
-   @ExceptionHandler(value = AdException.class)
-    public CommonResponse<String> handlerException(AdException ad){
-        CommonResponse commonResponse = new CommonResponse<String>(-1,"业务繁忙");
-        commonResponse.setData(ad.getMessage());
-        return commonResponse;
+        @ExceptionHandler(value = AdException.class)
+        public CommonResponse<String> handlerException(AdException ad){
+            CommonResponse commonResponse = new CommonResponse<String>(-1,"业务繁忙");
+            commonResponse.setData(ad.getMessage());
+            return commonResponse;
 
-    }
+        }
 }
