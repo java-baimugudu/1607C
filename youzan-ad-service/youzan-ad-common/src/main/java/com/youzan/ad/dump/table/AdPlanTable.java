@@ -14,6 +14,7 @@ import java.util.Date;
 @AllArgsConstructor
 @NoArgsConstructor
 public class AdPlanTable {
+    private Long id;
 
     private Long planId;
 
