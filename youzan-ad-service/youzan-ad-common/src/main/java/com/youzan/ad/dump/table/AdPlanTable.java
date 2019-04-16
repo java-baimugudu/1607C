@@ -7,22 +7,17 @@ import lombok.NoArgsConstructor;
 import java.util.Date;
 
 /**
- * Created by baimugudu on 2019/4/3
+ * Created by Qinyi.
  */
-
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
+@AllArgsConstructor
 public class AdPlanTable {
+
     private Long id;
-
     private Long planId;
-
     private Long userId;
-
     private Integer planStatus;
-
     private Date startDate;
-
     private Date endDate;
 }

@@ -1,16 +1,16 @@
-package com.youzan.ad.dump.table;
+package com.youzan.ad.index.keyword;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * Created by Qinyi.
+ * Created by baimugudu on 2019/4/2
  */
 @Data
-@NoArgsConstructor
 @AllArgsConstructor
-public class AdUnitKeywordTable {
+@NoArgsConstructor
+public class UnitKeyWordObject {
 
     private Long unitId;
     private String keyword;

@@ -5,17 +5,15 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * Created by baimugudu on 2019/4/3
+ * Created by Qinyi.
  */
-
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
+@AllArgsConstructor
 public class AdUnitTable {
+
     private Long unitId;
-
     private Integer unitStatus;
-
     private Integer positionType;
 
     private Long planId;

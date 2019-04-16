@@ -1,18 +1,19 @@
-package com.youzan.ad.dump.table;
+package com.youzan.ad.index.district;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * Created by Qinyi.
+ * Created by baimugudu on 2019/4/3
  */
 @Data
-@NoArgsConstructor
 @AllArgsConstructor
-public class AdUnitDistrictTable {
+@NoArgsConstructor
+public class UnitDistrictObject {
 
     private Long unitId;
     private String province;
     private String city;
+
 }

@@ -1,17 +1,20 @@
-package com.youzan.ad.dump.table;
+package com.youzan.ad.index.interest;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * Created by Qinyi.
+ * Created by baimugudu on 2019/4/3
  */
+
 @Data
-@NoArgsConstructor
 @AllArgsConstructor
-public class AdUnitItTable {
+@NoArgsConstructor
+public class UnitItObject {
 
     private Long unitId;
     private String itTag;
+
+
 }
