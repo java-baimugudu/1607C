@@ -14,19 +14,26 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="jianli" target="1.8" />
+      <module name="youzan-ad-common" target="1.8" />
+      <module name="youzan-ad-search" target="1.8" />
+      <module name="youzan-ad-service" target="1.8" />
+      <module name="youzan-ad-sponsor" target="1.8" />
       <module name="youzan-common-ad" target="1.8" />
+      <module name="youzan-erueka-ad" target="1.8" />
+      <module name="youzan-getway-ad" target="1.8" />
       <module name="youzan-service-ad" target="1.8" />
       <module name="youzan-sponsor-ad" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="youzan-ad-common" options="-parameters" />
-      <module name="youzan-ad-search" options="-parameters" />
-      <module name="youzan-ad-sponsor" options="-parameters" />
+      <module name="youzan-ad-common" options="" />
+      <module name="youzan-ad-search" options="" />
+      <module name="youzan-ad-sponsor" options="" />
       <module name="youzan-common-ad" options="-parameters" />
-      <module name="youzan-erueka-ad" options="-parameters" />
-      <module name="youzan-getway-ad" options="-parameters" />
+      <module name="youzan-erueka-ad" options="" />
+      <module name="youzan-getway-ad" options="" />
       <module name="youzan-sponsor-ad" options="-parameters" />
     </option>
   </component>

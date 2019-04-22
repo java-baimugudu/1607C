@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/1607C.iml" filepath="$PROJECT_DIR$/.idea/1607C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jianli.iml" filepath="$PROJECT_DIR$/.idea/jianli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-common/youzan-ad-common.iml" filepath="$PROJECT_DIR$/youzan-ad-service/youzan-ad-common/youzan-ad-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-search/youzan-ad-search.iml" filepath="$PROJECT_DIR$/youzan-ad-service/youzan-ad-search/youzan-ad-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-service.iml" filepath="$PROJECT_DIR$/youzan-ad-service/youzan-ad-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-sponsor/youzan-ad-sponsor.iml" filepath="$PROJECT_DIR$/youzan-ad-service/youzan-ad-sponsor/youzan-ad-sponsor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youzan-erueka-ad/youzan-erueka-ad.iml" filepath="$PROJECT_DIR$/youzan-erueka-ad/youzan-erueka-ad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youzan-getway-ad/youzan-getway-ad.iml" filepath="$PROJECT_DIR$/youzan-getway-ad/youzan-getway-ad.iml" />
     </modules>
   </component>
 </project>
