@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30916fb0-0061-4189-a587-d88eb2571cc0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="30916fb0-0061-4189-a587-d88eb2571cc0" name="Default Changelist" comment="修改A、B简历">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/田常平B简历.docx" beforeDir="false" afterPath="$PROJECT_DIR$/resume/田常平B简历.docx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/youzan-getway-ad/target/" />
@@ -66,6 +65,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d73377b6-941a-408e-9ea5-e108f2e545fe" />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -79,17 +81,18 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="y" value="-9" />
-    <option name="width" value="1383" />
-    <option name="height" value="698" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -106,7 +109,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,18 +130,200 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555931223370" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555993663922" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\GitProjects\1607C\resume" />
       <recent name="E:\workspace\JianLi\resume" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/compiler.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/jianli.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘佳鑫A简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘佳鑫B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘佳鑫C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/徐强A.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王东旭C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王佳龙(B简历)云计算亮点答辩简历模板.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王佳龙C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王宏洋A.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王顺虎A简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王顺虎B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王龙A简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王龙B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王龙C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/田常平A简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/田常平B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/田常平C简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/翟帅卿A简历.docx</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/modules.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/党银涛A简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/党银涛B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/党银涛C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/党银涛简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/党高闯A简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/党高闯B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/党高闯C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘忠钰A简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘忠钰B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘忠钰C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘笑阳A简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘笑阳B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘长根A简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘长根B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/刘长根C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/史淋伯A简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/史淋伯B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/史淋伯C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/张宇A简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/张宇B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/张宇C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/徐强B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/徐强C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/晋相瑞A简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/晋相瑞B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/朱连杰A简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/朱连杰B简历 .docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/朱连杰C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/樊荣A简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/樊荣B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/樊荣C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王佳龙A.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王宏洋C.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/白树浩A简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/白树浩B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/白树浩C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/翟鸿业简历A .docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/翟鸿业简历B.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/翟鸿业简历C.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/韩峰A简历.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/韩峰B简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/韩峰C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/王东旭C简历.docx</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/C简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/六星.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王佳龙A简历.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/王宏洋C.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/白树浩.doc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/翟帅卿简历A.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/翟帅卿简历C.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/resume/钟正阳.txt</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -230,26 +414,33 @@
       <option name="project" value="LOCAL" />
       <updated>1555983535756</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="修改A、B简历">
+      <created>1555993263601</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555993263601</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9401000" />
+    <option name="totallyTimeSpent" value="9834000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.34195635" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20375335" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32903227" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49958575" weight="0.7476809" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50041425" side_tool="true" weight="0.3074074" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="2" sideWeight="0.50041425" side_tool="true" visible="true" weight="0.30736545" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -266,7 +457,7 @@
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.5904826" />
       <window_info anchor="right" id="Palette" order="6" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
