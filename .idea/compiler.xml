@@ -14,7 +14,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ad" target="1.8" />
       <module name="jianli" target="1.8" />
       <module name="youzan-common-ad" target="1.8" />
       <module name="youzan-service-ad" target="1.8" />
