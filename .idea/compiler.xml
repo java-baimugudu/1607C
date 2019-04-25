@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="youzan-ad-common" />
+        <module name="youzan-ad-search" />
+        <module name="youzan-ad-sponsor" />
+        <module name="youzan-erueka-ad" />
+        <module name="youzan-getway-ad" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jianli" target="1.8" />
+      <module name="youzan-common-ad" target="1.8" />
+      <module name="youzan-service-ad" target="1.8" />
+      <module name="youzan-sponsor-ad" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="youzan-ad-common" options="" />
+      <module name="youzan-ad-search" options="" />
+      <module name="youzan-ad-sponsor" options="" />
+      <module name="youzan-common-ad" options="-parameters" />
+      <module name="youzan-erueka-ad" options="" />
+      <module name="youzan-getway-ad" options="" />
+      <module name="youzan-sponsor-ad" options="-parameters" />
+    </option>
+  </component>
+</project>
