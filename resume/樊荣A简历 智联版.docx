@@ -1,4 +1,4 @@
-<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>ling.li</o:Author><o:LastAuthor>fr</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>4</o:Pages><o:Characters>3763</o:Characters><o:Lines>31</o:Lines><o:Paragraphs>8</o:Paragraphs><o:Company>China</o:Company></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.8661</o:KSOProductBuildVer></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Print</w:View><w:Compatibility><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>ling.li</o:Author><o:LastAuthor>樊荣</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>4</o:Pages><o:Characters>3763</o:Characters><o:Lines>31</o:Lines><o:Paragraphs>8</o:Paragraphs><o:Company>China</o:Company></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.8661</o:KSOProductBuildVer></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Print</w:View><w:Compatibility><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
@@ -409,27 +409,22 @@ font-family:'Times New Roman';
 
 span.17{
 font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.18{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
+font-size:9.0000pt;
 }
 
 span.19{
 font-family:'Times New Roman';
-color:rgb(128,0,128);
-text-decoration:underline;
-text-underline:single;
 }
 
 span.20{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
 }
 
 span.21{
@@ -438,9 +433,6 @@ font-family:'Times New Roman';
 
 span.22{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
 }
 
 span.23{
@@ -452,14 +444,13 @@ text-underline:single;
 
 span.24{
 font-family:'Times New Roman';
-font-size:9.0000pt;
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.25{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
 }
 
 span.26{
@@ -479,12 +470,13 @@ font-family:'Times New Roman';
 
 span.29{
 font-family:'Times New Roman';
-font-size:9.0000pt;
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.30{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.31{
@@ -496,43 +488,73 @@ text-underline:single;
 
 span.32{
 font-family:'Times New Roman';
+color:rgb(128,0,128);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.33{
 font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.34{
 font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.35{
 font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
 span.36{
 font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.37{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
 }
 
 span.38{
 font-family:'Times New Roman';
+}
+
+span.39{
+font-family:'Times New Roman';
+font-size:9.0000pt;
+}
+
+span.40{
+font-family:'Times New Roman';
 color:rgb(0,0,255);
 text-decoration:underline;
 text-underline:single;
 }
 
-span.39{
+span.41{
 font-family:'Times New Roman';
 color:rgb(0,0,255);
 text-decoration:underline;
 text-underline:single;
+}
+
+span.42{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
+span.43{
+font-family:'Times New Roman';
 }
 
 p.MsoFooter{
@@ -544,6 +566,25 @@ margin-left:0.0000pt;
 layout-grid-mode:char;
 mso-pagination:none;
 text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+p.MsoHeader{
+mso-style-name:页眉;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.7500pt solid windowtext;
+padding:0pt 0pt 1pt 0pt ;
+layout-grid-mode:char;
+mso-pagination:none;
+text-align:center;
 font-family:Calibri;
 mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';
@@ -567,6 +608,18 @@ font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
 p.p{
 mso-style-name:"普通\(网站\)";
 margin-top:5.0000pt;
@@ -581,97 +634,12 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.pre{
-mso-style-name:"HTML 预设格式";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.MsoHeader{
-mso-style-name:页眉;
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-border-bottom:1.0000pt solid windowtext;
-mso-border-bottom-alt:0.7500pt solid windowtext;
-padding:0pt 0pt 1pt 0pt ;
-layout-grid-mode:char;
-mso-pagination:none;
-text-align:center;
-font-family:Calibri;
-mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';
-font-size:9.0000pt;
-mso-font-kerning:1.0000pt;
-}
-
-p.45{
-mso-style-name:"pre Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.46{
-mso-style-name:"普通\(网站\) Char";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.47{
-mso-style-name:"HTML 预设格式 Char Char Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.48{
-mso-style-name:"普通\(网站\) Char Char Char";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
 p.49{
-mso-style-name:"p Char";
-margin-top:5.0000pt;
+mso-style-name:"HTML 预设格式 Char Char";
+margin-top:0.0000pt;
 margin-right:0.0000pt;
-margin-bottom:5.0000pt;
+margin-bottom:0.0000pt;
 margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
 mso-pagination:widow-orphan;
 text-align:left;
 font-family:宋体;
@@ -679,20 +647,6 @@ font-size:12.0000pt;
 }
 
 p.50{
-mso-style-name:"普通\(网站\) Char Char Char Char";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.51{
 mso-style-name:"普通\(网站\) Char Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
@@ -706,19 +660,21 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.52{
-mso-style-name:"HTML 预设格式 Char Char";
-margin-top:0.0000pt;
+p.51{
+mso-style-name:"p Char";
+margin-top:5.0000pt;
 margin-right:0.0000pt;
-margin-bottom:0.0000pt;
+margin-bottom:5.0000pt;
 margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
 mso-pagination:widow-orphan;
 text-align:left;
 font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.53{
+p.52{
 mso-style-name:"HTML 预设格式 Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
@@ -730,7 +686,87 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
+p.53{
+mso-style-name:"普通\(网站\) Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
 p.54{
+mso-style-name:"普通\(网站\) Char Char Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.55{
+mso-style-name:"HTML 预设格式 Char Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.56{
+mso-style-name:"普通\(网站\) Char Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.57{
+mso-style-name:"普通\(网站\) Char Char Char Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.58{
+mso-style-name:"pre Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.59{
 mso-style-name:"HTML 预设格式 Char Char Char Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
@@ -811,8 +847,8 @@ div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-j
 mso-table-layout-alt:fixed;border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=872  valign=top  colspan=2  style="width:523.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:110.6600%;margin-left:3.5500pt;
-mso-table-layout-alt:fixed;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=945  valign=center  style="width:567.1000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;border-left:none;
+mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:110.6600%;margin-left:14.3500pt;
+mso-table-layout-alt:fixed;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=911  valign=center  style="width:546.9000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal  style="text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
@@ -858,7 +894,7 @@ font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td 
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width="1290"  height="1540"  src="樊荣A简历 (2).files/樊荣A简历 (2)183.png" ></span><o:p></o:p></p></td></tr><tr style="height:33.1000pt;" ><td width=852  valign=top  style="width:511.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width="2016.25"  height="2406.25"  src="樊荣A简历 智联版.files/樊荣A简历 智联版1.png" ></span><o:p></o:p></p></td></tr><tr style="height:33.1000pt;" ><td width=852  valign=top  style="width:511.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
@@ -1063,11 +1099,7 @@ mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:9
 mso-font-kerning:1.0000pt;" >后台系统：会员管理（账号管理、用户信息）</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
 mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="text-align:justify;text-justify:inter-ideograph;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >推广管理</span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >（商品管理、订单管理、理财管理、借款管理、催收管理）</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;推广管理（商品管理、订单管理、理财管理、借款管理、催收管理）</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
 mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-left:0.0000pt;text-indent:45.0000pt;mso-char-indent-count:5.0000;
 text-align:justify;text-justify:inter-ideograph;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;
@@ -1271,7 +1303,9 @@ mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;mso-font-kerning:1.000
 mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >所用技术：</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >Spring+SpringMvc+MyBtais+Redis</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >Spring+SpringMvc+MyBtais</span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >+Redis</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
