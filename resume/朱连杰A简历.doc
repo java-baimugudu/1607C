@@ -402,14 +402,11 @@ font-family:'Times New Roman';
 
 span.16{
 font-family:'Times New Roman';
-color:rgb(128,0,128);
-text-decoration:underline;
-text-underline:single;
+font-size:9.0000pt;
 }
 
 span.17{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.18{
@@ -418,15 +415,18 @@ font-family:'Times New Roman';
 
 span.19{
 font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
 span.20{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.21{
 font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.22{
@@ -435,48 +435,22 @@ font-family:'Times New Roman';
 
 span.23{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
 }
 
 span.24{
 font-family:'Times New Roman';
-font-size:9.0000pt;
+color:rgb(128,0,128);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.25{
 font-family:'Times New Roman';
 }
 
-p.MsoFooter{
-mso-style-name:页脚;
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-layout-grid-mode:char;
-mso-pagination:none;
-text-align:left;
-font-family:Calibri;
-mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';
+span.26{
+font-family:'Times New Roman';
 font-size:9.0000pt;
-mso-font-kerning:1.0000pt;
-}
-
-p.p{
-mso-style-name:"普通\(网站\)";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
 }
 
 p.MsoAcetate{
@@ -495,16 +469,20 @@ font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-p.pre{
-mso-style-name:"HTML 预设格式";
+p.MsoFooter{
+mso-style-name:页脚;
 margin-top:0.0000pt;
 margin-right:0.0000pt;
 margin-bottom:0.0000pt;
 margin-left:0.0000pt;
-mso-pagination:widow-orphan;
+layout-grid-mode:char;
+mso-pagination:none;
 text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
 }
 
 p.MsoHeader{
@@ -526,20 +504,8 @@ font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-p.31{
-mso-style-name:"HTML 预设格式 Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.32{
-mso-style-name:"p Char";
+p.p{
+mso-style-name:"普通\(网站\)";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
 margin-bottom:5.0000pt;
@@ -552,7 +518,19 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.33{
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.32{
 mso-style-name:"普通\(网站\) Char Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
@@ -566,7 +544,7 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.34{
+p.33{
 mso-style-name:"HTML 预设格式 Char Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
@@ -578,7 +556,33 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
+p.34{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
 p.35{
+mso-style-name:"p Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.36{
 mso-style-name:"普通\(网站\) Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
@@ -661,7 +665,7 @@ div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-j
 border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=890  valign=top  colspan=2  style="width:534.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:100.0000%;margin-left:37.8000pt;
+mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:100.0000%;margin-left:43.2000pt;
 mso-table-layout-alt:fixed;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=872  valign=center  style="width:523.3000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
@@ -773,7 +777,7 @@ mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes'
 mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:15.0000pt;
 mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:15.0000pt;
-mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" ><o:p></o:p></span></b></p><p class=35  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" ><o:p></o:p></span></b></p><p class=36  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
 margin-left:21.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;
 mso-layout-grid-align:none;layout-grid-mode:char;line-height:110%;" ><span style="mso-spacerun:'yes';font-family:宋体;line-height:110%;
 font-size:9.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >语言流畅，做事稳重，对待工作认真负责，积极乐观</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
@@ -1040,7 +1044,7 @@ font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&#160;</span><span style="font-
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td width=751  valign=top  style="width:450.7000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><p class=35  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-layout-grid-align:none;
+mso-border-bottom-alt:none;" ><p class=36  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-layout-grid-align:none;
 layout-grid-mode:char;line-height:110%;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >报表管理</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >:</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
@@ -1073,7 +1077,7 @@ font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&#160;</span><span style="font-
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td width=751  valign=top  style="width:450.7000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><p class=35  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-layout-grid-align:none;
+mso-border-bottom-alt:none;" ><p class=36  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-layout-grid-align:none;
 layout-grid-mode:char;line-height:110%;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >该项目使用了</span><b><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-weight:bold;font-size:9.0000pt;
