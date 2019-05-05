@@ -398,9 +398,7 @@ font-family:'Times New Roman';
 
 span.15{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
+font-size:9.0000pt;
 }
 
 span.16{
@@ -413,9 +411,6 @@ font-family:'Times New Roman';
 
 span.18{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
 }
 
 span.19{
@@ -425,11 +420,16 @@ font-size:9.0000pt;
 
 span.20{
 font-family:'Times New Roman';
-font-size:9.0000pt;
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.21{
 font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.22{
@@ -441,7 +441,6 @@ text-underline:single;
 
 span.23{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.24{
@@ -457,10 +456,22 @@ text-underline:single;
 
 span.26{
 font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
-p.27{
-mso-style-name:"普通\(网站\) Char Char";
+span.27{
+font-family:'Times New Roman';
+font-size:9.0000pt;
+}
+
+span.28{
+font-family:'Times New Roman';
+}
+
+p.29{
+mso-style-name:"普通\(网站\) Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
 margin-bottom:5.0000pt;
@@ -473,59 +484,48 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.MsoHeader{
-mso-style-name:页眉;
+p.30{
+mso-style-name:"pre Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
 margin-bottom:0.0000pt;
 margin-left:0.0000pt;
-border-bottom:1.0000pt solid windowtext;
-mso-border-bottom-alt:0.7500pt solid windowtext;
-padding:0pt 0pt 1pt 0pt ;
-layout-grid-mode:char;
-mso-pagination:none;
-text-align:center;
-font-family:Calibri;
-mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';
-font-size:9.0000pt;
-mso-font-kerning:1.0000pt;
-}
-
-p.MsoFooter{
-mso-style-name:页脚;
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-layout-grid-mode:char;
-mso-pagination:none;
+mso-pagination:widow-orphan;
 text-align:left;
-font-family:Calibri;
-mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';
-font-size:9.0000pt;
-mso-font-kerning:1.0000pt;
-}
-
-p.MsoAcetate{
-mso-style-name:批注框文本;
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:none;
-text-align:justify;
-text-justify:inter-ideograph;
-font-family:Calibri;
-mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';
-font-size:9.0000pt;
-mso-font-kerning:1.0000pt;
+font-family:宋体;
+font-size:12.0000pt;
 }
 
 p.31{
 mso-style-name:"p Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.32{
+mso-style-name:"普通\(网站\) Char Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.33{
+mso-style-name:"普通\(网站\) Char Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
 margin-bottom:5.0000pt;
@@ -552,18 +552,20 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.33{
-mso-style-name:"普通\(网站\) Char";
-margin-top:5.0000pt;
+p.MsoFooter{
+mso-style-name:页脚;
+margin-top:0.0000pt;
 margin-right:0.0000pt;
-margin-bottom:5.0000pt;
+margin-bottom:0.0000pt;
 margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
+layout-grid-mode:char;
+mso-pagination:none;
 text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
 }
 
 p.pre{
@@ -578,19 +580,42 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.35{
-mso-style-name:"pre Char";
+p.MsoAcetate{
+mso-style-name:批注框文本;
 margin-top:0.0000pt;
 margin-right:0.0000pt;
 margin-bottom:0.0000pt;
 margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
+mso-pagination:none;
+text-align:justify;
+text-justify:inter-ideograph;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
 }
 
-p.36{
+p.MsoHeader{
+mso-style-name:页眉;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.7500pt solid windowtext;
+padding:0pt 0pt 1pt 0pt ;
+layout-grid-mode:char;
+mso-pagination:none;
+text-align:center;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+p.39{
 mso-style-name:"HTML 预设格式 Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
@@ -671,7 +696,7 @@ div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-j
 border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style="height:15.5500pt;" ><td width=913  valign=top  colspan=2  style="width:548.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:100.0000%;margin-left:32.4000pt;
+mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:100.0000%;margin-left:37.8000pt;
 mso-table-layout-alt:fixed;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=895  valign=center  style="width:537.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
@@ -692,8 +717,9 @@ mso-font-kerning:1.0000pt;" >岁</span></b><b><span style="mso-spacerun:'yes';fon
 mso-hansi-font-family:Calibri;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >(1994.09)</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >3</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >年 年工作经验</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-bidi-font-family:Calibri;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >3</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >年工作经验</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >本科</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&#160;</span></b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
@@ -819,7 +845,8 @@ mso-font-kerning:1.0000pt;" >使用SpringMVC、Spring、MyBatis框架开发项目</span><s
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >* </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >使用SpringCloud、SpringBoot、SpringDataJPA开发项目</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >* </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >使用Redis缓存技术，Elasticsearch搜索引擎</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
+mso-font-kerning:1.0000pt;" >使用Redis缓存技术，Elastic</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >S</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >earch搜索引擎</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >* </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >使用Dubbo+Zookeeper实现服务之间调用</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >* </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
@@ -873,7 +900,7 @@ mso-font-kerning:1.0000pt;" >使用SpringMVC、Spring、MyBatis框架开发项目</span><s
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >* </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >使用Shiro安全框架实现登录</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >*</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >&#160;负责技术文件的整理，形成功能设计文档</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
+mso-font-kerning:1.0000pt;" >&nbsp;负责技术文件的整理，形成功能设计文档</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >* </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >完成日常开发任务，配合测试人员完成测试工作 </span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
@@ -903,9 +930,7 @@ font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td w
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >网交平台就是致力于把传统的&#8220;点到面&#8221;的传播方式转化到&#8220;点到点&#8221;的传播的平台，平台实现了资源消息互换，和社交交友，同时为用户提供了个性化的主题推荐，实现内容与用户的精准链接，能够让群众能够更好的交流。整个项目我们采用了SpringCloud微服务框架，后台我们用了SpringBoot+SpringMVC+SpringData</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >JPA</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >技术，我们平台提供了头条，问答，活动，交友，吐槽，招聘六大功能。我们前台有注册，登录系统，使用JWT进行验证，增加安全性，登录成功之后，用户可以发表自己的文章，也可以对别人发表的作品进行点赞和评论，因为这些数据量较大，我们采用MongoDB进行存储评论，用户点赞的时候我们采用Redis缓存技术，所以在整个项目中数据库我们用到了关系型数据库MySQL，非关系型数据库Redis和文件存储数据库MongoDB。如果有喜欢的人还可以进行添加，对方同意之后可以进行聊天和约会，一切都是为了让用户能有最好的体验。</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-font-kerning:1.0000pt;" >网交平台就是致力于把传统的&#8220;点到面&#8221;的传播方式转化到&#8220;点到点&#8221;的传播的平台，平台实现了资源消息互换，和社交交友，同时为用户提供了个性化的主题推荐，实现内容与用户的精准链接，能够让群众能够更好的交流。整个项目我们采用了SpringCloud微服务框架，后台我们用了SpringBoot+SpringMVC+SpringDataJPA技术，我们平台提供了头条，问答，活动，交友，吐槽，招聘六大功能。我们前台有注册，登录系统，使用JWT进行验证，增加安全性，登录成功之后，用户可以发表自己的文章，也可以对别人发表的作品进行点赞和评论，因为这些数据量较大，我们采用MongoDB进行存储评论，用户点赞的时候我们采用Redis缓存技术，所以在整个项目中数据库我们用到了关系型数据库MySQL，非关系型数据库Redis和文件存储数据库MongoDB。如果有喜欢的人还可以进行添加，对方同意之后可以进行聊天和约会，一切都是为了让用户能有最好的体验。</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&#160;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
