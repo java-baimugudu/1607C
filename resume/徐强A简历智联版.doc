@@ -394,11 +394,14 @@ font-family:'Times New Roman';
 
 span.15{
 font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
 span.16{
 font-family:'Times New Roman';
-font-size:9.0000pt;
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.17{
@@ -410,16 +413,15 @@ text-underline:single;
 
 span.18{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.19{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.20{
 font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
 span.21{
@@ -436,9 +438,6 @@ font-family:'Times New Roman';
 
 span.24{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
 }
 
 span.25{
@@ -453,35 +452,17 @@ span.27{
 font-family:'Times New Roman';
 }
 
-p.28{
-mso-style-name:"HTML 预设格式 Char Char Char Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
+span.28{
+font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
-p.MsoHeader{
-mso-style-name:页眉;
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-border-bottom:1.0000pt solid windowtext;
-mso-border-bottom-alt:0.7500pt solid windowtext;
-padding:0pt 0pt 1pt 0pt ;
-layout-grid-mode:char;
-mso-pagination:none;
-text-align:center;
-font-family:Calibri;
-mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';
-font-size:9.0000pt;
-mso-font-kerning:1.0000pt;
+span.29{
+font-family:'Times New Roman';
+}
+
+span.30{
+font-family:'Times New Roman';
 }
 
 p.MsoFooter{
@@ -516,50 +497,12 @@ font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-p.32{
-mso-style-name:"HTML 预设格式 Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.33{
-mso-style-name:"HTML 预设格式 Char Char Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
 p.pre{
 mso-style-name:"HTML 预设格式";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
 margin-bottom:0.0000pt;
 margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.35{
-mso-style-name:"p Char";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
 mso-pagination:widow-orphan;
 text-align:left;
 font-family:宋体;
@@ -580,7 +523,64 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
+p.MsoHeader{
+mso-style-name:页眉;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.7500pt solid windowtext;
+padding:0pt 0pt 1pt 0pt ;
+layout-grid-mode:char;
+mso-pagination:none;
+text-align:center;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+p.36{
+mso-style-name:"普通\(网站\) Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
 p.37{
+mso-style-name:"HTML 预设格式 Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.38{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.39{
 mso-style-name:"普通\(网站\) Char Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
@@ -594,7 +594,7 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.38{
+p.40{
 mso-style-name:"HTML 预设格式 Char Char Char Char Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
@@ -606,8 +606,22 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.39{
-mso-style-name:"HTML 预设格式 Char Char";
+p.41{
+mso-style-name:"普通\(网站\) Char Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.42{
+mso-style-name:"HTML 预设格式 Char Char Char Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
 margin-bottom:0.0000pt;
@@ -618,14 +632,26 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.40{
-mso-style-name:"普通\(网站\) Char";
+p.43{
+mso-style-name:"p Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
 margin-bottom:5.0000pt;
 margin-left:0.0000pt;
 mso-margin-top-alt:auto;
 mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.44{
+mso-style-name:"HTML 预设格式 Char Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
 mso-pagination:widow-orphan;
 text-align:left;
 font-family:宋体;
@@ -701,7 +727,7 @@ div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-j
 mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style="height:32.6500pt;" ><td width=712  valign=top  colspan=2  style="width:534.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:104.3000%;margin-left:26.0500pt;
+mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:104.3000%;margin-left:42.2500pt;
 mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=727  valign=center  style="width:545.8000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
@@ -870,7 +896,10 @@ mso-border-bottom-alt:none;" ><p class=MsoNormal  style="margin-left:0.0000pt;te
 text-autospace:ideograph-numeric;mso-pagination:none;line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;line-height:150%;
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >融易投是一个P2P金融服务平台，主要为用户提供借款和投资的服务，并从中获取手续费。项目采用Dubbo+ZooKeeper+Spring+SringMVC+MyBatis的分布式架构，页面使用</span><span style="mso-spacerun:'yes';font-family:宋体;line-height:150%;
 font-weight:normal;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >AngularJS+Bootstrap</span><span style="mso-spacerun:'yes';font-family:宋体;line-height:150%;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >，前台有用户账户管理，借贷管理，资产管理，信息认证，查看登录记录等功能，后台有用户管理，审核管理，平台管理，安全管理等。项目核心模块是借款和投资，信息认证及审核。由认证信息达标(主要认证风控资料)的用户在平台发起招标，后台审核招标人借款资格，标的信息无有误且当前用户满足借款资格后，就将此标的公开给所有用户，达到满标后，后台审核通过，就形成了借贷关系。</span><span style="font-family:宋体;line-height:150%;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >，前后端分离。前台用户使用模块有账户管理，借贷管理，资产管理，信息认证，查看登录记录等功能，后台管理使用模块有用户管理，审核管理，平台管理，安全管理等，不同模块间的服务调用是通过消息中间件ActiveMQ来实现</span><span style="font-family:宋体;line-height:150%;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >，</span><span style="mso-spacerun:'yes';font-family:宋体;line-height:150%;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >页面展示的标的信息，及发送短信后的验证码则是储存在Redis中</span><span style="mso-spacerun:'yes';font-family:宋体;line-height:150%;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >。项目核心模块是借款和投资，信息认证及审核。由认证信息达标(主要认证风控资料)的用户在平台发起招标，后台审核招标人借款资格，标的信息无有误且当前用户满足借款资格后，就将此标的公开给所有用户，达到满标后，后台审核通过，就形成了借贷关系。</span><span style="font-family:宋体;line-height:150%;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=111  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
@@ -950,9 +979,7 @@ mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;
 text-autospace:ideograph-numeric;mso-pagination:none;line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;line-height:150%;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >盈码基金是一个采用Spring+SringMVC+MyBatis架构的项目,主要是为客户提供基金咨询,基金购买等业务。未登录的用户只能查看网站首页查看基金的介绍,基金</span><span style="mso-spacerun:'yes';font-family:宋体;line-height:150%;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >展示</span><span style="mso-spacerun:'yes';font-family:宋体;line-height:150%;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >的数据通过Redis缓存。有购买意向的用户可登陆购买基金,并且提供了微信,支付宝,银联等方式进行账户充值。用户登陆后可查看账户中购买基金的数量,类型以及收益等,用户也可以通过风险测评模块来选择最适合自己的基金类型<a name="OLE_LINK1" >。</a>后台主要有基金管理模块,审核模块,平台及用户管理模块,充值提现等模块。</span><span style="font-family:宋体;line-height:150%;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >盈码基金是一个采用Spring+SringMVC+MyBatis架构的项目,主要是为客户提供基金咨询,基金购买等业务。未登录的用户只能查看网站首页查看基金的介绍,基金展示的数据通过Redis缓存。有购买意向的用户可登陆购买基金,并且提供了微信,支付宝,银联等方式进行账户充值。用户登陆后可查看账户中购买基金的数量,类型以及收益等,用户也可以通过风险测评模块来选择最适合自己的基金类型<a name="OLE_LINK1" >。</a>后台主要有基金管理模块,审核模块,平台及用户管理模块,充值提现等模块。</span><span style="font-family:宋体;line-height:150%;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:56.7500pt;" ><td width=111  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
