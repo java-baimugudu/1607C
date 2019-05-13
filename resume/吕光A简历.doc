@@ -406,6 +406,7 @@ font-family:'Times New Roman';
 
 span.17{
 font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
 span.18{
@@ -414,7 +415,6 @@ font-family:'Times New Roman';
 
 span.19{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.20{
@@ -427,19 +427,18 @@ font-family:'Times New Roman';
 
 span.22{
 font-family:'Times New Roman';
-color:rgb(128,0,128);
+color:rgb(0,0,255);
 text-decoration:underline;
 text-underline:single;
 }
 
 span.23{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.24{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
+color:rgb(128,0,128);
 text-decoration:underline;
 text-underline:single;
 }
@@ -451,6 +450,47 @@ font-size:9.0000pt;
 
 span.26{
 font-family:'Times New Roman';
+}
+
+span.27{
+font-family:'Times New Roman';
+font-size:9.0000pt;
+}
+
+p.28{
+mso-style-name:"HTML 预设格式 Char Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.29{
+mso-style-name:"HTML 预设格式 Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
 }
 
 p.MsoFooter{
@@ -469,6 +509,18 @@ font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
+p.32{
+mso-style-name:"pre Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
 p.MsoAcetate{
 mso-style-name:批注框文本;
 margin-top:0.0000pt;
@@ -483,6 +535,60 @@ mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';
 font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
+}
+
+p.34{
+mso-style-name:"普通\(网站\) Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.36{
+mso-style-name:"普通\(网站\) Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.37{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
 }
 
 p.MsoHeader{
@@ -502,108 +608,6 @@ mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';
 font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
-}
-
-p.p{
-mso-style-name:"普通\(网站\)";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.pre{
-mso-style-name:"HTML 预设格式";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.32{
-mso-style-name:"HTML 预设格式 Char Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.33{
-mso-style-name:"HTML 预设格式 Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.34{
-mso-style-name:"普通\(网站\) Char Char";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.35{
-mso-style-name:"pre Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.36{
-mso-style-name:"HTML 预设格式 Char Char Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.37{
-mso-style-name:"普通\(网站\) Char";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
 }
 
 span.msoIns{
@@ -675,7 +679,7 @@ div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-j
 mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=712  valign=top  colspan=2  style="width:534.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:101.9800%;margin-left:32.6000pt;
+mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:101.9800%;margin-left:38.0000pt;
 mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=711  valign=center  style="width:533.6500pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
@@ -689,7 +693,7 @@ border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
 font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >男</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;25 </span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >岁&#160;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >岁 </span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >(1994 </span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >年 </span></b><b><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-weight:bold;font-size:9.0000pt;
@@ -833,8 +837,7 @@ mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes
 mso-font-kerning:1.0000pt;" >1.使用SpringMVC、Spring、MyBatis框架开发项目</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >2.使用Spring Cloud、Spring Boot、Spring Data JPA开发项目</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >3.使用Redis缓存技术，ElasticSearch搜索引擎</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >4.使用Dubbo+Zoo</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >K</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >eeper实现服务之间调用</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >4.使用Dubbo+ZooKeeper实现服务之间调用</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >5.前端使用Bootstrap、FreeMarker、jQuery实现页面展示</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >6.使用Kafka消息中间件</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >7.根据开发进度和任务分配，完成相应模块的设计、开发、编程任务</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
@@ -878,7 +881,7 @@ mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,12
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >项目一 ：紫枫信贷金融 &nbsp;2018.10-2019.05</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >项目一 ：冠腾贷金融 &nbsp;2018.10-2019.05</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" ><o:p></o:p></span></b></p></td></tr><tr><td width=111  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
@@ -889,7 +892,7 @@ border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >技术框架：SpringMVC+Spring+MyBatis+FreeMarker+Bootstrap+jQuery</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >开发环境：Eclipse+MySQL5.6+JDK1.8+Tomcat7+Maven</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >紫枫信贷是一个p2p金融平台，由借贷双方自由竞价，撮合成交。资金借出人获取利息收益，并承担风险；资金借款人到期偿还本金，贷款平台从中收取中介服务费。参与人员主要包括借款人和投资人之间的借款和投资，还有通过后台管理人员审核完成相应业务。这个平台主要分为前台后台两个系统，前台系统主要包括开户登录、个人中心、借款资质申请、我要借款、充值、投标、提现等功能。后台系统主要包括用户管理、安全管理、审核管理、平台管理等，其中最重要的是审核管理，它是对借款人资质审核，以及对账户资金变动的相关审核，比如发标前审核、满标一审、满标二审等功能，满足消费金融公司快速、高效、便捷的借款业务需求。项目中使用的是SpringMVC、Spring和MyBatis技术框架，MySQL存储数据，使用Dubbo和ZooKeeper实现服务之间的调用，前端使用jQuery、FreeMaker和Bootstrap实现页面展示，使用Redis对数据进行缓存处理。</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >冠腾贷是一个p2p金融平台，由借贷双方自由竞价，撮合成交。我们平台主要包括借款人、投资人和平台管理人员，资金借出人获取利息收益，并承担风险；资金借款人到期偿还本金，平台管理人员通过审核相关流程完成借款、投资等业务，平台从中收取中介服务费。这个平台主要分为前台后台两个系统，前台系统主要包括开户登录、个人中心、借款资质申请、我要借款、充值、投标、提现等功能。后台系统主要包括用户管理、安全管理、审核管理、平台管理等，其中最重要的是审核管理，它是对借款人资质审核，以及对账户资金变动的相关审核，比如发标前审核、满标一审、满标二审等功能，满足消费金融公司快速、高效、便捷的借款业务需求。项目中使用的是SpringMVC、Spring和MyBatis技术框架，MySQL存储数据，使用Dubbo和ZooKeeper实现服务之间的调用，前端使用jQuery、FreeMaker和Bootstrap实现页面展示，使用Redis对数据进行缓存处理。</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >主要模块：前台模块（首页、我要借款、我要投资、线上充值、提现、vip申请、个人中心、公告资讯、信息披露、邀请好友、关于我们等）；</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >后台模块（平台账户管理、借款管理、审核管理、网站管理、资金管理、产品管理、账务管理、查询统计、参数设置、奖励管理、运营统计等）。</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=111  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
