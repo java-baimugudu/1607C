@@ -398,19 +398,17 @@ font-family:'Times New Roman';
 
 span.15{
 font-family:'Times New Roman';
-font-size:9.0000pt;
-}
-
-span.16{
-font-family:'Times New Roman';
 color:rgb(0,0,255);
 text-decoration:underline;
 text-underline:single;
 }
 
+span.16{
+font-family:'Times New Roman';
+}
+
 span.17{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.18{
@@ -423,28 +421,36 @@ font-family:'Times New Roman';
 
 span.20{
 font-family:'Times New Roman';
-font-style:italic;
+font-size:9.0000pt;
 }
 
 span.21{
 font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.22{
 font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.23{
 font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
 span.24{
 font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
 span.25{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
+color:rgb(128,0,128);
 text-decoration:underline;
 text-underline:single;
 }
@@ -455,7 +461,6 @@ font-family:'Times New Roman';
 
 span.27{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.28{
@@ -464,19 +469,22 @@ font-family:'Times New Roman';
 
 span.29{
 font-family:'Times New Roman';
-color:rgb(128,0,128);
-text-decoration:underline;
-text-underline:single;
 }
 
 span.30{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
 }
 
 span.31{
+font-family:'Times New Roman';
+}
+
+span.32{
+font-family:'Times New Roman';
+font-style:italic;
+}
+
+span.33{
 font-family:'Times New Roman';
 }
 
@@ -494,20 +502,6 @@ mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';
 font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
-}
-
-p.p{
-mso-style-name:"普通\(网站\)";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
 }
 
 p.MsoAcetate{
@@ -538,6 +532,20 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
 p.MsoHeader{
 mso-style-name:页眉;
 margin-top:0.0000pt;
@@ -557,32 +565,6 @@ font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-p.37{
-mso-style-name:"普通\(网站\) Char";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.38{
-mso-style-name:"HTML 预设格式 Char Char Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
 p.39{
 mso-style-name:"p Char";
 margin-top:5.0000pt;
@@ -598,6 +580,44 @@ font-size:12.0000pt;
 }
 
 p.40{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.41{
+mso-style-name:"HTML 预设格式 Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.42{
+mso-style-name:"普通\(网站\) Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.43{
 mso-style-name:"普通\(网站\) Char Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
@@ -611,20 +631,8 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.41{
-mso-style-name:"HTML 预设格式 Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.42{
-mso-style-name:"HTML 预设格式 Char Char";
+p.44{
+mso-style-name:"HTML 预设格式 Char Char Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
 margin-bottom:0.0000pt;
@@ -704,8 +712,8 @@ div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-j
 border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style="height:30.8000pt;" ><td width=905  valign=top  colspan=2  style="width:543.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:100.0000%;margin-left:54.0000pt;
-mso-table-layout-alt:fixed;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=867  valign=center  style="width:520.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;border-left:none;
+mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:100.0000%;margin-left:64.8000pt;
+mso-table-layout-alt:fixed;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=887  valign=center  style="width:532.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal  style="text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
@@ -721,7 +729,7 @@ mso-font-kerning:1.0000pt;" >现居住地：北京-昌平区| 户口：河北-衡水||无 海外工作
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width="326"  height="149"  src="翟鸿业A简历.files/翟鸿业A简历186.png" ></span><o:p></o:p></p></td></tr><tr style="height:68.1500pt;" ><td width=709  valign=top  style="width:425.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width="311"  height="143"  src="翟鸿业A简历.files/翟鸿业A简历186.png" ></span><o:p></o:p></p></td></tr><tr style="height:48.4500pt;" ><td width=709  valign=top  style="width:425.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
@@ -891,15 +899,14 @@ border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(46,46,46);
 letter-spacing:0.0000pt;font-weight:normal;text-transform:none;
 font-style:normal;font-size:9.0000pt;mso-font-kerning:1.0000pt;
-background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >邦融汇</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >是</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >一个</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >无抵押信用借贷(金融)的第三方平台,</span><span style="mso-spacerun:'yes';font-family:微软雅黑;letter-spacing:0.0000pt;
+background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >邦融汇</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >是一个无抵押信用借贷(金融)的第三方平台,</span><span style="mso-spacerun:'yes';font-family:微软雅黑;letter-spacing:0.0000pt;
 text-transform:none;font-style:normal;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >具有</span><span class="20"  style="mso-spacerun:'yes';font-family:微软雅黑;letter-spacing:0.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >具有</span><span class="32"  style="mso-spacerun:'yes';font-family:微软雅黑;letter-spacing:0.0000pt;
 text-transform:none;font-style:normal;font-size:9.0000pt;
 background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >贷款</span><span style="mso-spacerun:'yes';font-family:微软雅黑;letter-spacing:0.0000pt;
 text-transform:none;font-style:normal;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >期限短、金额小、重视</span><span class="20"  style="mso-spacerun:'yes';font-family:微软雅黑;letter-spacing:0.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >期限短、金额小、重视</span><span class="32"  style="mso-spacerun:'yes';font-family:微软雅黑;letter-spacing:0.0000pt;
 text-transform:none;font-style:normal;font-size:9.0000pt;
 background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >贷款</span><span style="mso-spacerun:'yes';font-family:微软雅黑;letter-spacing:0.0000pt;
 text-transform:none;font-style:normal;font-size:9.0000pt;
@@ -909,11 +916,7 @@ mso-font-kerning:1.0000pt;" >这个项目主要包含以下几个部分：</span><span style="f
 mso-para-margin-left:0.0000gd;text-indent:9.0000pt;mso-char-indent-count:1.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >&#9654; 前台交易平台，</span><span style="mso-spacerun:'yes';font-family:微软雅黑;letter-spacing:0.0000pt;
 text-transform:none;font-style:normal;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >页面的展示、投资攻略、在线客服、本息\本金保障</span><span style="font-family:微软雅黑;letter-spacing:0.0000pt;text-transform:none;
-font-style:normal;font-size:9.0000pt;mso-font-kerning:1.0000pt;
-background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >、</span><span style="mso-spacerun:'yes';font-family:微软雅黑;letter-spacing:0.0000pt;
-text-transform:none;font-style:normal;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >信息披露。</span><span style="font-family:微软雅黑;letter-spacing:0.0000pt;text-transform:none;
+mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >页面的展示、投资攻略、在线客服、本息\本金保障、信息披露。</span><span style="font-family:微软雅黑;letter-spacing:0.0000pt;text-transform:none;
 font-style:normal;font-size:9.0000pt;mso-font-kerning:1.0000pt;
 background:rgb(255,255,255);mso-shading:rgb(255,255,255);" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;
 mso-para-margin-left:0.0000gd;text-indent:9.0000pt;mso-char-indent-count:1.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
@@ -1087,7 +1090,7 @@ mso-shading:rgb(127,127,127);" ><font face="宋体" >语言能力</font></span></b><b>
 mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:10.5000pt;
 mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:15.0000pt;
-mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:15.0000pt;
 mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" ><o:p></o:p></span></b></p><table class=MsoTableGrid  border=0  cellspacing=0  style="border-collapse:collapse;border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=890  valign=top  style="width:534.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
