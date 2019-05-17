@@ -10,34 +10,36 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="徐强A简历智联版.files/filelist.xml">
+<link rel=File-List href="徐强-JAVA开发.files/filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>ling.li</o:Author>
   <o:LastAuthor>MrCT</o:LastAuthor>
-  <o:Revision>7</o:Revision>
-  <o:TotalTime>33</o:TotalTime>
+  <o:Revision>17</o:Revision>
+  <o:TotalTime>62</o:TotalTime>
   <o:Created>2019-05-13T06:14:00Z</o:Created>
-  <o:LastSaved>2019-05-15T00:53:00Z</o:LastSaved>
+  <o:LastSaved>2019-05-15T01:23:00Z</o:LastSaved>
   <o:Pages>2</o:Pages>
-  <o:Words>441</o:Words>
-  <o:Characters>2520</o:Characters>
+  <o:Words>448</o:Words>
+  <o:Characters>2554</o:Characters>
   <o:Company>China</o:Company>
   <o:Lines>21</o:Lines>
   <o:Paragraphs>5</o:Paragraphs>
-  <o:CharactersWithSpaces>2956</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>2997</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
   <o:KSOProductBuildVer dt:dt="string">2052-11.1.0.8573</o:KSOProductBuildVer>
  </o:CustomDocumentProperties>
 </xml><![endif]-->
-<link rel=themeData href="徐强A简历智联版.files/themedata.thmx">
-<link rel=colorSchemeMapping href="徐强A简历智联版.files/colorschememapping.xml">
+<link rel=themeData href="徐强-JAVA开发.files/themedata.thmx">
+<link rel=colorSchemeMapping href="徐强-JAVA开发.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
   <w:Zoom>120</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
@@ -933,6 +935,12 @@ span.30
 	mso-ascii-font-family:"Times New Roman";
 	mso-hansi-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -1059,7 +1067,7 @@ table.MsoTableGrid
   mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
   83.6pt'>
   <p class=MsoNormal style='line-height:150%;text-autospace:ideograph-numeric'><span
-  style='font-size:9.0pt;line-height:150%;font-family:宋体'>手机：<span lang=EN-US>18575776871<br>
+  style='font-size:9.0pt;line-height:150%;font-family:宋体'>手机：<span lang=EN-US>185-7577-6871<br>
   E-mail</span>：<span lang=EN-US>xuqiang2015@aliyun.com</span></span><span
   lang=EN-US style='font-family:宋体'><o:p></o:p></span></p>
   </td>
@@ -1218,7 +1226,7 @@ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   <td width=591 valign=top style='width:443.6pt;border:none;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='line-height:150%;text-autospace:ideograph-numeric'><span
-  style='font-size:9.0pt;line-height:150%;font-family:宋体'>根据需求文档完成编码的实现功能<span
+  style='font-size:9.0pt;line-height:150%;font-family:宋体'>根据需求文档完成编码的功能实现<span
   lang=EN-US>,</span>生成接口<span lang=EN-US>,</span>进行单元测试；协助测试工程师制定测试计划，及时对<span
   lang=EN-US>BUG</span>进行修复；对现有项目维护<span lang=EN-US>,</span>解决生产中的问题；配合项目经理完成工作中的任务</span><span
   style='font-family:宋体'>。</span><span lang=EN-US style='font-size:9.0pt;
@@ -1277,8 +1285,8 @@ none;mso-hide:all'><span style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span
 style='font-size:15.0pt;line-height:150%;font-family:宋体;background:#7F7F7F'>项目经历</span></b><b><span
 style='font-family:宋体'> </span></b><b><span lang=EN-US style='font-size:15.0pt;
 line-height:150%;font-family:宋体;background:#7F7F7F'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p></span></b></p>
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p></span></b></p>
 
 <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
@@ -1289,7 +1297,7 @@ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='line-height:150%;text-autospace:ideograph-numeric'><b><span
   lang=EN-US style='font-size:9.0pt;line-height:150%;font-family:宋体'>2018/3-</span></b><b><span
-  style='font-size:9.0pt;line-height:150%;font-family:宋体'>至今 融易投金融项目<span
+  style='font-size:9.0pt;line-height:150%;font-family:宋体'>至今 <span class=GramE>融易投金融</span>项目<span
   lang=EN-US style='background:#7F7F7F'><o:p></o:p></span></span></b></p>
   </td>
  </tr>
@@ -1310,13 +1318,16 @@ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:4.5pt'>
   <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:2.0;
-  line-height:150%;text-autospace:ideograph-numeric'><span style='font-size:
-  9.0pt;line-height:150%;font-family:宋体'>融易投是一个<span lang=EN-US>P2P</span>金融服务平台，主要为用户提供借款和投资的服务，并从中获取手续费。项目采用<span
-  lang=EN-US>Dubbo+ZooKeeper+Spring+SringMVC+MyBatis</span>的分布式架构，页面使用<span
-  lang=EN-US>AngularJS+Bootstrap</span>，前后端分离。前台用户使用模块有账户管理，借贷管理，资产管理，信息认证，查看登录记录等功能，后台管理使用模块有用户管理，审核管理，平台管理，安全管理等，不同模块间的服务调用是通过消息中间件<span
-  lang=EN-US>RocketMQ</span>来实现，页面展示的标的信息，及发送短信后的验证码则是储存在<span lang=EN-US>Redis</span>中。项目核心模块是借款和投资，信息认证及审核。由认证信息达标<span
-  lang=EN-US>(</span>主要认证风控资料<span lang=EN-US>)</span>的用户在平台发起招标，后台审核招标人借款资格，标的信息无有误且当前用户满足借款资格后，就将此标的公开给所有用户，达到满标后，后台审核通过，就形成了借贷关系。<span
-  lang=EN-US><o:p></o:p></span></span></p>
+  line-height:150%;text-autospace:ideograph-numeric'><span class=GramE><span
+  style='font-size:9.0pt;line-height:150%;font-family:宋体'>融易投</span></span><span
+  style='font-size:9.0pt;line-height:150%;font-family:宋体'>是一个<span lang=EN-US>P2P</span>金融服务平台，主要为用户提供借款和投资的服务，并从中获取手续费。项目采用<span
+  class=SpellE><span lang=EN-US>Dubbo+ZooKeeper+Spring+SringMVC+MyBatis</span></span>的分布式架构，前端页面展示使用<span
+  class=SpellE><span lang=EN-US>AngularJS+Bootstrap</span></span>，前后端分离。前台用户使用的模块有账户管理，借贷管理，资产管理，信息认证，查看登录记录等功能，后台管理使用模块有用户管理，审核管理，平台管理，安全管理等，不同模块间的服务调用是通过<span
+  class=SpellE><span lang=EN-US>Dubbo</span></span>来实现，页面展示的标的信息，及发送短信后的<span
+  class=GramE>验证码则是</span>储存在<span class=SpellE><span lang=EN-US>Redis</span></span>中，同时，发送短信是通过消息中间件<span
+  class=SpellE><span lang=EN-US>RocketMQ</span></span>来实现服务的异步调用。项目核心模块是借款和投资，信息认证及审核。由认证信息达标<span
+  lang=EN-US>(</span>主要认证<span class=GramE>风控资料</span><span lang=EN-US>)</span>的用户在平台发起招标，后台审核招标人借款资格，标的信息无有误且当前用户满足借款资格后，就将此标的公开给所有用户，<span
+  class=GramE>达到满标后</span>，后台审核通过，就形成了借贷关系。<span lang=EN-US><o:p></o:p></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
@@ -1333,7 +1344,8 @@ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   <p class=MsoNormal style='text-indent:18.05pt;mso-char-indent-count:2.0;
   line-height:150%;text-autospace:ideograph-numeric'><b><span style='font-size:
   9.0pt;line-height:150%;font-family:宋体'>借款模块</span></b><span style='font-size:
-  9.0pt;line-height:150%;font-family:宋体'>：由普通用户发起借款，借款前会验证用户账户资金是否正常，并且满足实名和基本信息认证，及视频和风控资料的认证后，达到或超过最低借款积分，才能向后台管理人员申请借款，申请通过后，数据库会生成借款记录。<span
+  9.0pt;line-height:150%;font-family:宋体'>：由普通用户发起借款，借款前会验证用户账户资金是否正常，并且满足实名和基本信息认证，及视频和风<span
+  class=GramE>控资料</span>的认证后，达到或超过最低借款<span class=GramE>的风控指数</span>，才能向后台管理人员申请借款，申请通过后，数据库会生成借款记录。<span
   lang=EN-US><o:p></o:p></span></span></p>
   <p class=MsoNormal style='text-indent:18.05pt;mso-char-indent-count:2.0;
   line-height:150%;text-autospace:ideograph-numeric'><b><span style='font-size:
@@ -1341,9 +1353,11 @@ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   style='font-size:9.0pt;line-height:150%;font-family:宋体'>：将处于发标前待审核状态的借款申请进行审核，查询是否存在当前借款申请，以及借款人账户资金是否处于正常状态，针对审核结果在数据库更改标的属性。<span
   lang=EN-US><o:p></o:p></span></span></p>
   <p class=MsoNormal style='text-indent:18.05pt;mso-char-indent-count:2.0;
-  line-height:150%;text-autospace:ideograph-numeric'><b><span style='font-size:
-  9.0pt;line-height:150%;font-family:宋体'>满标审核模块</span></b><span
-  style='font-size:9.0pt;line-height:150%;font-family:宋体'>：达成满标后，后台提交审核结果，根据审核结果更改标的属性，数据库添加审核记录，如果此时是满标二审，则计算利息，根据标的情况生成还款记录，扣除投标人账户冻结资金，增加借款人账户资金等。</span><span
+  line-height:150%;text-autospace:ideograph-numeric'><span class=GramE><b><span
+  style='font-size:9.0pt;line-height:150%;font-family:宋体'>满标审核</span></b></span><b><span
+  style='font-size:9.0pt;line-height:150%;font-family:宋体'>模块</span></b><span
+  style='font-size:9.0pt;line-height:150%;font-family:宋体'>：<span class=GramE>达成满标后</span>，后台提交审核结果，根据审核结果更改标的属性，数据库添加审核记录，如果此时<span
+  class=GramE>是满标二审</span>，则计算利息，根据标的情况生成还款记录，扣除投标人账户冻结资金，增加借款人账户资金等。</span><span
   lang=EN-US style='font-family:宋体'>&nbsp;</span><span lang=EN-US
   style='font-size:9.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
   </td>
@@ -1362,7 +1376,7 @@ none;mso-hide:all'><span style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span
   border-bottom:solid black 1.0pt;mso-border-bottom-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='line-height:150%;text-autospace:ideograph-numeric'><b><span
-  lang=EN-US style='font-size:9.0pt;line-height:150%;font-family:宋体'>2017/1-2018/3
+  lang=EN-US style='font-size:9.0pt;line-height:150%;font-family:宋体'>2017/7-2018/3
   </span></b><b><span style='font-size:9.0pt;line-height:150%;font-family:宋体'>佰推网络传媒广告系统</span></b><b><span
   lang=EN-US style='font-family:宋体'>&nbsp;</span></b><b><span lang=EN-US
   style='font-size:9.0pt;line-height:150%;font-family:宋体;background:#7F7F7F'><o:p></o:p></span></b></p>
@@ -1386,12 +1400,13 @@ none;mso-hide:all'><span style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span
   <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:2.0;
   line-height:150%;text-autospace:ideograph-numeric'><span style='font-size:
   9.0pt;line-height:150%;font-family:宋体'>广告系统主要是服务于广告主，媒体方，以及消费者三种人群。广告主通过平台进行广告投放，而媒体方通过检索系统，在<span
-  lang=EN-US>Elasticsearch</span>中查询并返回结果，将流量变现。消费者通过媒体方的曝光系统获取到自身最需要的广告。当前系统架构采用<span
-  lang=EN-US>Dubbo+ZooKeeper+SpringBoot+SringMVC+MyBatis</span>的分布式架构，主要模块有检索系统，广告投放系统，广告计费系统，报表系统等，不同模块间通过<span
-  lang=EN-US>Eureka</span>来实现服务注册，并通过<span lang=EN-US>Dubbo</span>实现服务的消费以及均衡负载<span
+  class=SpellE><span lang=EN-US>Elasticsearch</span></span>中查询并返回结果，将流量变现。消费者通过媒体方的曝光系统获取到自身最需要的广告。当前系统架构采用<span
+  class=SpellE><span lang=EN-US>Dubbo+ZooKeeper+SpringBoot+SringMVC+MyBatis</span></span>的分布式架构，主要模块有检索系统，广告投放系统，广告计费系统，报表系统等，不同模块间通过<span
+  lang=EN-US>Eureka</span>来实现服务注册，并通过<span class=SpellE><span lang=EN-US>Dubbo</span></span>实现服务的消费以及均衡负载<span
   lang=EN-US>,</span>广告主在数据库添加了广告计划等广告信息后<a name="OLE_LINK2"><span lang=EN-US>,</span></a><span
-  lang=EN-US>Elasticsearch</span>通过监听<span lang=EN-US>,</span>从<span
-  lang=EN-US>MySQL</span>数据库的日志文件中同步广告数据。<span lang=EN-US><o:p></o:p></span></span></p>
+  class=SpellE><span lang=EN-US>Elasticsearch</span></span>通过监听<span
+  lang=EN-US>,</span>从<span lang=EN-US>MySQL</span>数据库的<span class=SpellE><span
+  lang=EN-US>Binlog</span></span>日志文件中同步广告数据。<span lang=EN-US><o:p></o:p></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
@@ -1415,9 +1430,10 @@ none;mso-hide:all'><span style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span
   line-height:150%;text-autospace:ideograph-numeric'><b><span style='font-size:
   9.0pt;line-height:150%;font-family:宋体'>广告数据检索</span></b><span
   style='font-size:9.0pt;line-height:150%;font-family:宋体'>：将媒体方发送来的请求参数<span
-  lang=EN-US>,</span>如媒体方标识<span lang=EN-US>,</span>基本请求类型<span lang=EN-US>,</span>匹配限制条件<span
-  lang=EN-US>,</span>进行处理<span lang=EN-US>,</span>然后在<span lang=EN-US>Elasticsearch</span>中查询<span
-  lang=EN-US>,</span>返回给媒体方创意<span lang=EN-US>URL</span>。 <span lang=EN-US><o:p></o:p></span></span></p>
+  lang=EN-US>,</span><span class=GramE>如媒体方</span>标识<span lang=EN-US>,</span>基本请求类型<span
+  lang=EN-US>,</span>匹配限制条件<span lang=EN-US>,</span>进行处理<span lang=EN-US>,</span>然后在<span
+  class=SpellE><span lang=EN-US>Elasticsearch</span></span>中查询<span lang=EN-US>,</span>返回给媒体方创意<span
+  lang=EN-US>URL</span>。<span lang=EN-US><o:p></o:p></span></span></p>
   </td>
  </tr>
 </table>
@@ -1434,9 +1450,10 @@ none;mso-hide:all'><span style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span
   border-bottom:solid black 1.0pt;mso-border-bottom-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='line-height:150%;text-autospace:ideograph-numeric'><b><span
-  lang=EN-US style='font-size:9.0pt;line-height:150%;font-family:宋体'>2016/05-2017/1
-  </span></b><b><span style='font-size:9.0pt;line-height:150%;font-family:宋体'>盈码基金项目<span
-  lang=EN-US style='background:#7F7F7F'><o:p></o:p></span></span></b></p>
+  lang=EN-US style='font-size:9.0pt;line-height:150%;font-family:宋体'>2016/05-2017/7
+  </span></b><span class=GramE><b><span style='font-size:9.0pt;line-height:
+  150%;font-family:宋体'>盈码基金</span></b></span><b><span style='font-size:9.0pt;
+  line-height:150%;font-family:宋体'>项目<span lang=EN-US style='background:#7F7F7F'><o:p></o:p></span></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
@@ -1455,14 +1472,16 @@ none;mso-hide:all'><span style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:2.0;
-  line-height:150%;text-autospace:ideograph-numeric'><span style='font-size:
-  9.0pt;line-height:150%;font-family:宋体'>盈码基金是一个采用<span lang=EN-US>Spring+SringMVC+MyBatis</span>架构的项目<span
+  line-height:150%;text-autospace:ideograph-numeric'><span class=GramE><span
+  style='font-size:9.0pt;line-height:150%;font-family:宋体'>盈码基金</span></span><span
+  style='font-size:9.0pt;line-height:150%;font-family:宋体'>是一个采用<span
+  class=SpellE><span lang=EN-US>Spring+SringMVC+MyBatis</span></span>架构的项目<span
   lang=EN-US>,</span>主要是为客户提供基金咨询<span lang=EN-US>,</span>基金购买等业务。未登录的用户只能查看网站首页查看基金的介绍<span
-  lang=EN-US>,</span>基金展示的数据通过<span lang=EN-US>Redis</span>缓存。有购买意向的用户可登陆购买基金<span
-  lang=EN-US>,</span>并且提供了微信<span lang=EN-US>,</span>支付宝<span lang=EN-US>,</span>银联等方式进行账户充值。用户登陆后可查看账户中购买基金的数量<span
-  lang=EN-US>,</span>类型以及收益等<span lang=EN-US>,</span>用户也可以通过风险测评模块来选择最适合自己的基金类型<a
-  name="OLE_LINK1">。</a>后台主要有基金管理模块<span lang=EN-US>,</span>审核模块<span
-  lang=EN-US>,</span>平台及用户管理模块<span lang=EN-US>,</span>充值提现等模块。<span
+  lang=EN-US>,</span>基金展示的数据通过<span class=SpellE><span lang=EN-US>Redis</span></span>缓存。有购买意向的用户可登陆购买基金<span
+  lang=EN-US>,</span>并且提供<span class=GramE>了微信</span><span lang=EN-US>,</span>支付宝<span
+  lang=EN-US>,</span>银联等方式进行账户充值。用户登陆后可查看账户中购买基金的数量<span lang=EN-US>,</span>类型以及收益等<span
+  lang=EN-US>,</span>用户也可以通过风险测评模块来选择最适合自己的基金类型<a name="OLE_LINK1">。</a>后台主要有基金管理模块<span
+  lang=EN-US>,</span>审核模块<span lang=EN-US>,</span>平台及用户管理模块<span lang=EN-US>,</span>充值提现等模块。<span
   lang=EN-US><o:p></o:p></span></span></p>
   </td>
  </tr>
@@ -1488,7 +1507,7 @@ none;mso-hide:all'><span style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span
   style='font-size:9.0pt;line-height:150%;font-family:宋体'>:</span><span
   style='font-size:9.0pt;line-height:150%;font-family:宋体'>用户提交的表单在后台进行处理<span
   lang=EN-US>,</span>按照分类结果<span lang=EN-US>,</span>为用户保存风险权重值<span lang=EN-US>,</span>并从<span
-  lang=EN-US>Redis</span>中获取当前所有基金类型<span lang=EN-US>,</span>匹配当前计算结果最适合的基金<span
+  class=SpellE><span lang=EN-US>Redis</span></span>中获取当前所有基金类型<span lang=EN-US>,</span>匹配当前计算结果最适合的基金<span
   lang=EN-US>,</span>计算收益后<span lang=EN-US>,</span>在前台页面展示。<span lang=EN-US><o:p></o:p></span></span></p>
   <p class=MsoNormal style='text-indent:18.05pt;mso-char-indent-count:2.0;
   line-height:150%;text-autospace:ideograph-numeric'><b><span style='font-size:
@@ -1537,9 +1556,10 @@ none;mso-hide:all'><span style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span
   line-height:150%;text-autospace:ideograph-numeric'><span style='font-size:
   9.0pt;line-height:150%;font-family:宋体'>项目使用<span lang=EN-US>Spring+Struts2+MyBatis</span>的架构<span
   lang=EN-US>,</span>主要由<span lang=EN-US>V</span>热点、板块、<span lang=EN-US>V</span>活动、以及<span
-  lang=EN-US>CIBN</span>微视听四大模块构成，<span lang=EN-US>V</span>热点发布一些微视听软件的版本消息，板块部分有热点新闻，视听专区，玩机交流，<span
-  lang=EN-US>V</span>友福利模块，<span lang=EN-US>V</span>活动不定期发布一些活动，<span
-  lang=EN-US>CIBN</span>微视听则提供软件下载、软件教程等服务。<span lang=EN-US><o:p></o:p></span></span></p>
+  lang=EN-US>CIBN</span>微视听四大模块构成，<span lang=EN-US>V</span>热点发布<span
+  class=GramE>一</span>些微视听软件的版本消息，板块部分有热点新闻，视听专区，玩机交流，<span lang=EN-US>V</span>友福利模块，<span
+  lang=EN-US>V</span>活动不定期发布一些活动，<span lang=EN-US>CIBN</span>微视听则提供软件下载、软件教程等服务。<span
+  lang=EN-US><o:p></o:p></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
@@ -1557,8 +1577,8 @@ none;mso-hide:all'><span style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span
   line-height:150%;text-autospace:ideograph-numeric'><b><span style='font-size:
   9.0pt;line-height:150%;font-family:宋体'>问题反馈</span></b><span style='font-size:
   9.0pt;line-height:150%;font-family:宋体'>：已登录用户可以通过发帖的形式，发布一些关于软件使用过程中的<span
-  lang=EN-US>bug</span>信息，数据库中生成发帖记录，未登录或者其他登录用户浏览，回复都会对改此数据做修改和关联操作。未登录用户只能浏览不能回复，当前发帖用户浏览后不增加浏览次数。<span
-  lang=EN-US><o:p></o:p></span></span></p>
+  lang=EN-US>bug</span>信息，数据库中生成发帖记录，未登录或者其他登录用户浏览，回复都会<span class=GramE>对改此数据</span>做修改和关联操作。未登录用户只能浏览不能回复，当前发<span
+  class=GramE>帖用户</span>浏览后不增加浏览次数。<span lang=EN-US><o:p></o:p></span></span></p>
   <p class=MsoNormal style='text-indent:18.05pt;mso-char-indent-count:2.0;
   line-height:150%;text-autospace:ideograph-numeric'><b><span lang=EN-US
   style='font-size:9.0pt;line-height:150%;font-family:宋体'>V</span></b><b><span
@@ -1603,10 +1623,9 @@ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal style='line-height:150%;text-autospace:ideograph-numeric'><b><span
 style='font-size:15.0pt;line-height:150%;font-family:宋体;background:#7F7F7F'>语言能力</span></b><b><span
-style='font-family:宋体'> </span></b><b><span style='font-size:15.0pt;line-height:
-150%;font-family:宋体;background:#7F7F7F'><span
-style='mso-spacerun:yes'>&nbsp;</span><span lang=EN-US><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p></span></span></b></p>
+style='font-family:宋体'> </span></b><b><span lang=EN-US style='font-size:15.0pt;
+line-height:150%;font-family:宋体;background:#7F7F7F'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p></span></b></p>
 
 <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
