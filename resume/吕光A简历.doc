@@ -398,27 +398,26 @@ font-family:'Times New Roman';
 
 span.15{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.16{
 font-family:'Times New Roman';
-}
-
-span.17{
-font-family:'Times New Roman';
-color:rgb(128,0,128);
+color:rgb(0,0,255);
 text-decoration:underline;
 text-underline:single;
 }
 
+span.17{
+font-family:'Times New Roman';
+}
+
 span.18{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.19{
 font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
 span.20{
@@ -427,6 +426,7 @@ font-family:'Times New Roman';
 
 span.21{
 font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
 span.22{
@@ -439,6 +439,7 @@ font-family:'Times New Roman';
 
 span.24{
 font-family:'Times New Roman';
+font-size:9.0000pt;
 }
 
 span.25{
@@ -447,7 +448,6 @@ font-family:'Times New Roman';
 
 span.26{
 font-family:'Times New Roman';
-font-size:9.0000pt;
 }
 
 span.27{
@@ -456,13 +456,31 @@ font-family:'Times New Roman';
 
 span.28{
 font-family:'Times New Roman';
-color:rgb(0,0,255);
+}
+
+span.29{
+font-family:'Times New Roman';
+color:rgb(128,0,128);
 text-decoration:underline;
 text-underline:single;
 }
 
-p.29{
-mso-style-name:"pre Char";
+p.30{
+mso-style-name:"普通\(网站\) Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
 margin-bottom:0.0000pt;
@@ -489,20 +507,6 @@ font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-p.31{
-mso-style-name:"普通\(网站\) Char";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
 p.MsoAcetate{
 mso-style-name:批注框文本;
 margin-top:0.0000pt;
@@ -519,14 +523,24 @@ font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-p.33{
-mso-style-name:"普通\(网站\) Char Char";
-margin-top:5.0000pt;
+p.34{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
 margin-right:0.0000pt;
-margin-bottom:5.0000pt;
+margin-bottom:0.0000pt;
 margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.35{
+mso-style-name:"HTML 预设格式 Char Char Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
 mso-pagination:widow-orphan;
 text-align:left;
 font-family:宋体;
@@ -552,7 +566,19 @@ font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-p.35{
+p.37{
+mso-style-name:"pre Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.38{
 mso-style-name:"HTML 预设格式 Char Char Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
@@ -564,19 +590,35 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.36{
-mso-style-name:"HTML 预设格式 Char";
-margin-top:0.0000pt;
+p.39{
+mso-style-name:"普通\(网站\) Char Char";
+margin-top:5.0000pt;
 margin-right:0.0000pt;
-margin-bottom:0.0000pt;
+margin-bottom:5.0000pt;
 margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
 mso-pagination:widow-orphan;
 text-align:left;
 font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.37{
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.41{
 mso-style-name:"HTML 预设格式 Char Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
@@ -588,20 +630,8 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.pre{
-mso-style-name:"HTML 预设格式";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.p{
-mso-style-name:"普通\(网站\)";
+p.42{
+mso-style-name:"普通\(网站\) Char Char Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
 margin-bottom:5.0000pt;
@@ -683,7 +713,7 @@ div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-j
 mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=712  valign=top  colspan=2  style="width:534.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:101.9800%;margin-left:43.4000pt;
+mso-border-bottom-alt:none;" ><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;width:101.9800%;margin-left:48.8000pt;
 mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=711  valign=center  style="width:533.6500pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
@@ -810,7 +840,7 @@ mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span sty
 mso-font-kerning:1.0000pt;" >4.稳重、踏实，对待工作认真，注重细节，具备良好的自学能力。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >5.良好的沟通能力，有能力带团队，集体意识强，习惯性换位思考，多角度考虑问题。</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-font-kerning:1.0000pt;" >5.良好的沟通能力，集体意识强，习惯性换位思考，多角度考虑问题。</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
 font-size:15.0000pt;mso-font-kerning:1.0000pt;background:rgb(127,127,127);
 mso-shading:rgb(127,127,127);" ><font face="宋体" >工作经历</font></span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -907,9 +937,7 @@ border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >主要参与了我要借款、我要投标、满标一审的模块开发。</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >我要借款：首先判断用户是否满足借款条件，如果用户满足借款条件可以提交借款申请，后台管理人员进行审核通过或者审核拒绝。</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >我要投标：</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >投资人可以根据标的信息进行投资</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >，</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >平台会判断投资金额是否符合投资要求，如果所需资金投满进入满标一审状态。</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >我要投标：投资人可以根据标的信息进行投资，平台会判断投资金额是否符合投资要求，如果所需资金投满进入满标一审状态。</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >满标一审：当投资的金额达到借款人的借款金额时，就进入了满标一审的状态，后台管理员会审核相关信息进行审核通过和审核拒绝操作。</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;
 font-size:12.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
